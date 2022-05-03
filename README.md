@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and helping front end developement users and clients
 - 🌱 I’m currently learning front end development and UI/UX
 - 💞️ I’m looking to collaborate on html, css, react
-- 📫 How to reach me ...
+- 📫 You can reach me through email omnisolutions13@gmail.com
 
 <!---
 omnisolutionz/omnisolutionz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
